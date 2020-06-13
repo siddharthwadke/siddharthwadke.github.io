@@ -28,7 +28,7 @@
 <!--menu end--> <!--banner start-->
 <div id="banner" class="banner row">
 <div class="bannerText">
-<h1>Rohan Ranshinge</h1>
+<h1>Siddharth Wadke</h1>
 <h3>Business Analyst | Electronics Engineer | Life-long learner</h3>
 </div>
 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 noPadd slides-container" style="height: 100%;"><!--background slide show start-->
@@ -43,7 +43,7 @@
 <div class="col-md-12">
 <div class="heading">
 <h2>About me</h2>
-<h3>A small introduction about my self</h3>
+<h3>Introduction</h3>
 </div>
 </div>
 </div>
