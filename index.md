@@ -14,7 +14,7 @@
       </p>
       <ul class="social-links">
         <li><a href="https://github.com/siddharthwadke">Github</a></li>
-        <li><a href="https://medium.com/@ianjsikes">Medium</a></li>
+        <li><a href="https://linkedin.com/siddharthwadke">LinkedIn</a></li>
       </ul>
     </div>
     
