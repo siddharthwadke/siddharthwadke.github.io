@@ -7,9 +7,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 Siddharth Wadke
-# Header 1
-## Header 2
-### Header 3
+# Professional Details
+  ## Academics
+### Work 
 
 - Bulleted
 - List
