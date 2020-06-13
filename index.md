@@ -104,8 +104,3 @@ Get In Touch
 rohan.ranshinge@gmail.com
 Drop a email
 Please feel free if you would like to have a chat.
- 
-  
-
- 
- S
